@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://komarev.com/ghpvc/?username=adamhmid&label=Views&color=green&style=plastic" alt="views)
+![](https://komarev.com/ghpvc/?username=adamhmid&label=Views)
 ![](https://img.shields.io/github/last-commit/adamhmid/adamhmid)
