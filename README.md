@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://komarev.com/ghpvc/?username=adamhmid&label=Views&style=plastic&color=green)
-![](https://img.shields.io/github/last-commit/adamhmid/adamhmid)
+![](https://img.shields.io/github/last-commit/adamhmid/adamhmid?color=green&style=plastic)
