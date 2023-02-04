@@ -6,7 +6,7 @@
 
 - 🏢 I’m currently working on **Najam Corp**
 
-- 👨‍💻 All of my projects are available at [www.adamhm.cf](www.adamhm.cf)
+- 👨‍💻 All of my projects are available at [www.adamhm.cf](https://adamhm.cf)
 
 - 💬 Ask me about **TypeScript, JavaScript, Node.js, Express.js**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a align="left">
-<a href="https://twitter.com/adamhm_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamhm_id" height="30" width="40" /></a>
-<a href="https://instagram.com/adamhmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamhmid" height="30" width="40" /></a>
+<a href="https://twitter.com/adamhm_id" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamhm_id" height="30" width="40" /></a>
+<a href="https://instagram.com/adamhmid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamhmid" height="30" width="40" /></a>
 <a href="https://www.github.com/adamhmid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="30" height="40" /></a>
 </p>
 
