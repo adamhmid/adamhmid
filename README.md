@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamhmid&label=Profile%20views&color=0e75b6&style=flat" alt="adamhmid" /> </p>
 
-- 🏢 I’m currently working on **Najam Corp**
+<!-- - 🏢 I’m currently working on **Najam Corp** -->
 
 - 👨‍💻 All of my projects are available at [www.adamhm.cf](https://adamhm.cf)
 
