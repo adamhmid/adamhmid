@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [www.adamhm.cf](https://adamhm.cf)
 
-- 💬 Ask me about **TypeScript, JavaScript, Node.js, Express.js**
+<!-- - 💬 Ask me about **TypeScript, JavaScript, Node.js, Express.js** -->
 
 - ✉️ How to reach me **adamhm.id@outlook.com**
 
