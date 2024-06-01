@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <a align="left">
 <a href="https://twitter.com/adamhm_id" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamhm_id" height="30" width="40" /></a>
-<a href="https://instagram.com/adamhmid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamhmid" height="30" width="40" /></a>
+<a href="https://instagram.com/adamhm.id" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamhmid" height="30" width="40" /></a>
 <a href="https://www.github.com/adamhmid" target="_blank"><img align="center" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" width="35" height="35" /></a>
 </p>
 
